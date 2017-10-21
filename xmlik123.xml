@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ahp>
+<cele>
+<cel>1</cel>
+<cel>2</cel>
+</cele>
+<kryteria>
+<wagi>1.0 4.0 0.25 1.0</wagi>
+<kryterium name="1">
+<wagi>1.0 5.0 0.2 1.0</wagi>
+<kryterium name="12">
+<porownanie>1.0 5.0 0.2 1.0</porownanie>
+</kryterium>
+<kryterium name="122">
+<porownanie>1.0 4.0 0.25 1.0</porownanie>
+</kryterium>
+</kryterium>
+<kryterium name="2">
+<wagi>1.0 6.0 0.16666666666666666 1.0</wagi>
+<kryterium name="23">
+<porownanie>1.0 5.0 0.2 1.0</porownanie>
+</kryterium>
+<kryterium name="2323">
+<porownanie>1.0 6.0 0.16666666666666666 1.0</porownanie>
+</kryterium>
+</kryterium>
+</kryteria>
+</ahp>
